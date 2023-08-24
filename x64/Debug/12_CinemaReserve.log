@@ -1,0 +1,3 @@
+﻿  CinemaReserve.c
+E:\Munkák\Programming\C\12_CinemaReserve\CinemaReserve.c(60,3): warning C4013: 'system' undefined; assuming extern returning int
+  12_CinemaReserve.vcxproj -> E:\Munkák\Programming\C\12_CinemaReserve\x64\Debug\12_CinemaReserve.exe
